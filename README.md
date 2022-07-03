@@ -22,7 +22,7 @@ I have Made this Movie App with the Help of `HTML, CSS & JavaScript`. In this Mo
 ![20220703_212201](https://user-images.githubusercontent.com/52501040/177060460-2e534528-0f49-4f08-9fc4-119ddf71b4a0.jpg)
 ![20220703_212233](https://user-images.githubusercontent.com/52501040/177060463-2576dc5a-d451-437b-b342-43297ad4727b.jpg)
 
-**Demo Full Clip if you want to see** Click Here ⤴️
+**Demo Full Clip if you want to see** [**Click Here ⤴️**](https://github.com/hamzajaffar/Movie-App-By-HTML-CSS-JAVASCRIPT-/blob/main/final%20demo%20clip%20(1).mp4)
 ## Licence
 
 MIT LICENCE Read `Licence` document for more details ->
