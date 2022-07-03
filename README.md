@@ -18,8 +18,13 @@ I have Made this Movie App with the Help of `HTML, CSS & JavaScript`. In this Mo
 
 ## Screenshots:
 
+![20220703_212150](https://user-images.githubusercontent.com/52501040/177060446-f64ed47c-0dcc-4482-97dc-e380fdd5899a.jpg)
+![20220703_212201](https://user-images.githubusercontent.com/52501040/177060460-2e534528-0f49-4f08-9fc4-119ddf71b4a0.jpg)
+![20220703_212233](https://user-images.githubusercontent.com/52501040/177060463-2576dc5a-d451-437b-b342-43297ad4727b.jpg)
 
+**Demo Full Clip if you want to see** Click Here ⤴️
 ## Licence
+
 MIT LICENCE Read `Licence` document for more details ->
 
 # Bye! 👋
